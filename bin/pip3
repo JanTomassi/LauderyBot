@@ -1,4 +1,4 @@
-#!/home/jan/Project/laundry/NestLaundry/bin/python
+#!/home/jan/Project/NestLaundry/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
